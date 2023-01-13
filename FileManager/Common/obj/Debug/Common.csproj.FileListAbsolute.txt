@@ -1,0 +1,11 @@
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Common\bin\Debug\Common.dll
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Common\bin\Debug\Common.pdb
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Common\obj\Debug\Common.dll
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Common\obj\Debug\Common.pdb
+D:\Projekti\SBES\FileManager\Common\bin\Debug\Common.dll
+D:\Projekti\SBES\FileManager\Common\bin\Debug\Common.pdb
+D:\Projekti\SBES\FileManager\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Projekti\SBES\FileManager\Common\obj\Debug\Common.dll
+D:\Projekti\SBES\FileManager\Common\obj\Debug\Common.pdb

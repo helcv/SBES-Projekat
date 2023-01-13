@@ -1,0 +1,24 @@
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Client\bin\Debug\Client.exe.config
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Client\bin\Debug\Client.exe
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Client\bin\Debug\Client.pdb
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Client\bin\Debug\Common.dll
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Client\bin\Debug\SecurityManager.dll
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Client\bin\Debug\Common.pdb
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Client\bin\Debug\SecurityManager.pdb
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Client\obj\Debug\Client.exe
+D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Client\obj\Debug\Client.pdb
+D:\Projekti\SBES\FileManager\Client\bin\Debug\Client.exe.config
+D:\Projekti\SBES\FileManager\Client\bin\Debug\Client.exe
+D:\Projekti\SBES\FileManager\Client\bin\Debug\Client.pdb
+D:\Projekti\SBES\FileManager\Client\bin\Debug\Common.dll
+D:\Projekti\SBES\FileManager\Client\bin\Debug\SecurityManager.dll
+D:\Projekti\SBES\FileManager\Client\bin\Debug\Common.pdb
+D:\Projekti\SBES\FileManager\Client\bin\Debug\SecurityManager.pdb
+D:\Projekti\SBES\FileManager\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Projekti\SBES\FileManager\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Projekti\SBES\FileManager\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Projekti\SBES\FileManager\Client\obj\Debug\Client.exe
+D:\Projekti\SBES\FileManager\Client\obj\Debug\Client.pdb
