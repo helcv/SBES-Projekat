@@ -9,3 +9,9 @@ D:\Projekti\SBES\FileManager\Common\bin\Debug\Common.pdb
 D:\Projekti\SBES\FileManager\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 D:\Projekti\SBES\FileManager\Common\obj\Debug\Common.dll
 D:\Projekti\SBES\FileManager\Common\obj\Debug\Common.pdb
+D:\sbes proba\FileManager\Common\bin\Debug\Common.dll
+D:\sbes proba\FileManager\Common\bin\Debug\Common.pdb
+D:\sbes proba\FileManager\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\sbes proba\FileManager\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\sbes proba\FileManager\Common\obj\Debug\Common.dll
+D:\sbes proba\FileManager\Common\obj\Debug\Common.pdb

@@ -22,3 +22,15 @@ D:\Projekti\SBES\FileManager\Client\obj\Debug\Client.csproj.CoreCompileInputs.ca
 D:\Projekti\SBES\FileManager\Client\obj\Debug\Client.csproj.CopyComplete
 D:\Projekti\SBES\FileManager\Client\obj\Debug\Client.exe
 D:\Projekti\SBES\FileManager\Client\obj\Debug\Client.pdb
+D:\sbes proba\FileManager\Client\bin\Debug\Client.exe.config
+D:\sbes proba\FileManager\Client\bin\Debug\Client.exe
+D:\sbes proba\FileManager\Client\bin\Debug\Client.pdb
+D:\sbes proba\FileManager\Client\bin\Debug\Common.dll
+D:\sbes proba\FileManager\Client\bin\Debug\SecurityManager.dll
+D:\sbes proba\FileManager\Client\bin\Debug\Common.pdb
+D:\sbes proba\FileManager\Client\bin\Debug\SecurityManager.pdb
+D:\sbes proba\FileManager\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\sbes proba\FileManager\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\sbes proba\FileManager\Client\obj\Debug\Client.csproj.CopyComplete
+D:\sbes proba\FileManager\Client\obj\Debug\Client.exe
+D:\sbes proba\FileManager\Client\obj\Debug\Client.pdb
