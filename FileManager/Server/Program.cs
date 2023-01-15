@@ -42,7 +42,6 @@ namespace Server
             host.Description.Behaviors.Remove<ServiceSecurityAuditBehavior>();
             host.Description.Behaviors.Add(audit);
 
-
             host.Authorization.PrincipalPermissionMode = PrincipalPermissionMode.Custom;
 
             host.Authorization.ServiceAuthorizationManager = new CustomServiceAuthorizationManager();

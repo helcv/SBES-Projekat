@@ -1,15 +1,5 @@
-D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Server\bin\Debug\Server.exe.config
-D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Server\bin\Debug\Server.exe
-D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Server\bin\Debug\Server.pdb
-D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Server\bin\Debug\Common.dll
-D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Server\bin\Debug\SecurityManager.dll
-D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Server\bin\Debug\Common.pdb
-D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Server\bin\Debug\SecurityManager.pdb
-D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Server\obj\Debug\Server.csprojAssemblyReference.cache
-D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
-D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Server\obj\Debug\Server.csproj.CopyComplete
-D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Server\obj\Debug\Server.exe
-D:\Projekti\SBES\FileManager - Laksi 4- DONE\FileManager\Server\obj\Debug\Server.pdb
+D:\Projekti\SBES\FileManager\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Projekti\SBES\FileManager\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 D:\Projekti\SBES\FileManager\Server\bin\Debug\Server.exe.config
 D:\Projekti\SBES\FileManager\Server\bin\Debug\Server.exe
 D:\Projekti\SBES\FileManager\Server\bin\Debug\Server.pdb
@@ -17,20 +7,6 @@ D:\Projekti\SBES\FileManager\Server\bin\Debug\Common.dll
 D:\Projekti\SBES\FileManager\Server\bin\Debug\SecurityManager.dll
 D:\Projekti\SBES\FileManager\Server\bin\Debug\Common.pdb
 D:\Projekti\SBES\FileManager\Server\bin\Debug\SecurityManager.pdb
-D:\Projekti\SBES\FileManager\Server\obj\Debug\Server.csprojAssemblyReference.cache
-D:\Projekti\SBES\FileManager\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 D:\Projekti\SBES\FileManager\Server\obj\Debug\Server.csproj.CopyComplete
 D:\Projekti\SBES\FileManager\Server\obj\Debug\Server.exe
 D:\Projekti\SBES\FileManager\Server\obj\Debug\Server.pdb
-D:\sbes proba\FileManager\Server\obj\Debug\Server.csprojAssemblyReference.cache
-D:\sbes proba\FileManager\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
-D:\sbes proba\FileManager\Server\obj\Debug\Server.exe
-D:\sbes proba\FileManager\Server\obj\Debug\Server.pdb
-D:\sbes proba\FileManager\Server\bin\Debug\Server.exe.config
-D:\sbes proba\FileManager\Server\bin\Debug\Server.exe
-D:\sbes proba\FileManager\Server\bin\Debug\Server.pdb
-D:\sbes proba\FileManager\Server\bin\Debug\Common.dll
-D:\sbes proba\FileManager\Server\bin\Debug\SecurityManager.dll
-D:\sbes proba\FileManager\Server\bin\Debug\Common.pdb
-D:\sbes proba\FileManager\Server\bin\Debug\SecurityManager.pdb
-D:\sbes proba\FileManager\Server\obj\Debug\Server.csproj.CopyComplete

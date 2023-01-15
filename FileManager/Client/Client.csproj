@@ -56,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Common\Common.csproj">
-      <Project>{FA059F0C-3F49-4AEC-9EE7-FCCE9470B0CC}</Project>
+      <Project>{fa059f0c-3f49-4aec-9ee7-fcce9470b0cc}</Project>
       <Name>Common</Name>
     </ProjectReference>
     <ProjectReference Include="..\SecurityManager\SecurityManager.csproj">
